@@ -7,7 +7,7 @@
  * オーガカウンタークラス
  * 
  * @author Daisuke Sakata
- * @link http://websegment.net/oc/example/oc.html
+ * @link http://lab.websegment.net/oc/example/oc.html
  * 
  * @example
  * <pre>
